@@ -1,5 +1,4 @@
-notebook/
-checkpoints/
+notebooks/
 results/
 data/
 __pycache__/
